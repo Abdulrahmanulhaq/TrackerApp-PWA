@@ -33,4 +33,4 @@ jobs:
     - name: Install Surge 
       run: npm install --global surge
     - name: Deploy to surge 
-      run: surge ./build  ExpenseTracker-PWA-AR.surge.sh --token ${{secrets.SURGE_TOKEN}} 
+      run: surge ./build  ExpenseTrackerPWA-AR.surge.sh --token ${{secrets.SURGE_TOKEN}} 
