@@ -4,7 +4,7 @@ import {TransactionType} from '../Types'
 
 const startingState = {
     transactions : [
-        {id:1, title:"IPhone", amount:450}
+        {id:1, title:"", amount:450}
     ],
     deleteTransaction : (id: number) => {},
     addTransaction : (transaction: TransactionType) => {}
