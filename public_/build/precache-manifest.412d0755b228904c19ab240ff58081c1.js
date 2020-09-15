@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae0293d086a0bc75cda6acaaa01a5c60",
+    "revision": "a6ecd62f107f1d60bc894879ab209254",
     "url": "/index.html"
   },
   {
-    "revision": "68a3915d8e349b96ae44",
-    "url": "/static/css/main.f65cf5c3.chunk.css"
+    "revision": "088baa0fd28a1d98c8b8",
+    "url": "/static/css/main.021c2668.chunk.css"
   },
   {
     "revision": "99bd2568b828afd77970",
@@ -16,11 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.23c4c121.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "68a3915d8e349b96ae44",
-    "url": "/static/js/main.02b2a552.chunk.js"
+    "revision": "088baa0fd28a1d98c8b8",
+    "url": "/static/js/main.96a2da5e.chunk.js"
   },
   {
     "revision": "1116a83bef20c6d669b8",
     "url": "/static/js/runtime-main.866d5b39.js"
+  },
+  {
+    "revision": "a15b167bd9a46cd292e66c05c49ac556",
+    "url": "/static/media/jeremy-bishop-G9i_plbfDgk-unsplash (2).a15b167b.jpg"
   }
 ]);

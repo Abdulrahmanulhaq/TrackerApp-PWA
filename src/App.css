@@ -10,7 +10,7 @@
   box-sizing: border-box;
 }
 
-body {
+body{
   background: url(./components/images/jeremy-bishop-G9i_plbfDgk-unsplash\ \(2\).jpg);
   display: flex;
   -webkit-background-size: cover;

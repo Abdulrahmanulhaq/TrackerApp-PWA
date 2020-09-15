@@ -7,7 +7,6 @@ import {IncomeExpenses} from './components/IncomeExpenses';
 import TransactionsList from './components/TransactionsList'; 
 import AddTransaction from './components/AddTransaction'; 
 import { GlobalProvider } from './context/GlobalState'; 
-
 import './App.css';
 import firebase from "./firebase";
 
